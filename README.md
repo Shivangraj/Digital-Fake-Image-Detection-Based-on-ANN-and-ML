@@ -17,5 +17,5 @@ Combine the implementation of error-level analysis (ELA) and deep learning to de
 
 ## Result
 - Convergence: Epoch 30
-- Best accuracy: 94.83% (epoch 30)
+- Best accuracy: 98.13% (epoch 30)
 

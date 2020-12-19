@@ -11,9 +11,12 @@ Combine the implementation of error-level analysis (ELA) and deep learning to de
 ## Methods
 1. Error-level analysis
 2. Convolutional neural networks (CNN)
-
+---
+## Activity Diagram 
+![Activity-Diagram](doc/Activity.png)
+---
 ## Architecture
-![full-architecture](docs/model-architecture.jpg)
+![full-architecture](doc/model-architecture.jpg)
 
 ## Result
 - Convergence: Epoch 30
